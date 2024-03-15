@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img border-radius="50%" height="150" src="img/logo.jpg"  />
+  <img height="150" src="img/logo.jpg"  />
 </div>
 
 ###
