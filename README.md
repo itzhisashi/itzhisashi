@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="border-radius:50%">
   <img height="150" src="img/logo.jpg"  />
 </div>
 
