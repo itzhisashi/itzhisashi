@@ -4,12 +4,13 @@
 ###
 
 <div align="center">
- <img height="200" src="img/image.png"  
+ <img height="200" src="img/image.png">
 </div>
 
 ###
+
 <div align="center">
-<h2 style="font-size:24px;font-weight:900;">Hisashi 久</h2>
+ <h2 style="font-size:24px;font-weight:900;">Hisashi 久</h2>
 </div>
 
 ###
