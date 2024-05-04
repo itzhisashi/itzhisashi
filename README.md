@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Hisashi (久) and I'm a Web Developer, from somewhere in the Earth.</h2>
+<h2 align="left">Hi 👋! My name is Hisashi (久) and I'm a Web Developer, from somewhere on Earth.</h2>
 
 ###
 
