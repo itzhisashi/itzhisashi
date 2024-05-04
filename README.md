@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hisashi (久) and I'm a Web Developer, from somewhere in the Earth.</h2>
+## <h2 align="left">Hi 👋! My name is Hisashi (久) and I'm a Web Developer, from somewhere in the Earth.</h2>
 
 ###
 
@@ -6,8 +6,7 @@
  <img height="200" src="img/image.png"  
 </div>
 
-###
-
+##
 <div align="center">
 <div style="font-size:24px;font-weight:900;">Hisashi 久</div>
 </div>
