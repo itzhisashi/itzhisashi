@@ -6,6 +6,9 @@
  <img height="200" src="img/image.png"  
 </div>
 
+### 
+<h3 style="text-align:center;font-weight:900;">Hisashi 久</h3>
+
 ###
 
 <div align="center">
