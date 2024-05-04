@@ -9,7 +9,7 @@
 
 ###
 <div align="center">
-<div style="font-size:24px;font-weight:900;">Hisashi 久</div>
+<h2 style="font-size:24px;font-weight:900;">Hisashi 久</h2>
 </div>
 
 ###
