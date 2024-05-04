@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Hisashi (久) and I'm a Web Developer , from some where on the earth</h2>
+<h2 align="left">Hi 👋! My name is Hisashi (久) and I'm a Web Developer, from somewhere on Earth.</h2>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif"  />
+ <!-- <img height="200" src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif"  />-->
 </div>
 
 ###
