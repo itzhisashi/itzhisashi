@@ -32,6 +32,8 @@
 
 ###
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <div align="center">
  [![GitHub Streak](https://streak-stats.demolab.com/?user=itzhisashi)](https://git.io/streak-stats)
   <!--<img src="https://github-readme-stats.vercel.app/api/stats?username=itzhisashi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />-->
