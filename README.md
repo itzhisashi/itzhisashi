@@ -26,7 +26,7 @@
   <a href="https://www.instagram.com/itz.hisashi?igsh=aDFhZXljcWNlbGo4"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href=""><img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF5700&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="reddit logo"  /></a>
   <a href="https://discord.com/invite/eAyGHh6sup"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href=""><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="mailto:aaurgon3112004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href=""><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
