@@ -32,8 +32,9 @@
 
 ###
 
-<!--<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/stats?username=itzhisashi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />-->
+<div align="center">
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=itzhisashi)](https://git.io/streak-stats)
+  <!--<img src="https://github-readme-stats.vercel.app/api/stats?username=itzhisashi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />-->
   <!--<img src="https://streak-stats.demolab.com?user=itzhisashi&theme=tokyonight-duo&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzhisashi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
