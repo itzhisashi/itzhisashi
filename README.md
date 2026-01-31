@@ -7,11 +7,11 @@
  <img height="200" src="img/image.png">
 </div>-->
 
-###
 
-<div align="center">
+
+<!-- <div align="center">
  <h2 style="font-size:24px;font-weight:900;">Hisashi 久</h2>
-</div>
+</div> -->
 
 ###
 
