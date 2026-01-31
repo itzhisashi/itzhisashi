@@ -1,11 +1,11 @@
 
 <h2 align="left">Hi 👋! My name is Hisashi (久) and I'm a Web Developer, from somewhere on Earth.</h2>
 
-###
 
-<div align="center">
+
+<!--<div align="center">
  <img height="200" src="img/image.png">
-</div>
+</div>-->
 
 ###
 
